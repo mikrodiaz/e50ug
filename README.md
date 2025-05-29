@@ -9,6 +9,6 @@ Imagen subida por mi a DOCKERHUB: https://hub.docker.com/r/adiaz876/adguard
 
 Remote Image: adiaz876/adguard:e50ug
 
-Use una memoria USB adicional para instalar ya que el equipo cuenta con muy poca memoria RAM.
+Use una memoria USB adicional para instalar ya que el equipo cuenta con muy poca memoria para la instalación.
 
 ![image](https://github.com/user-attachments/assets/d2047530-0c4b-4f0e-bee5-248a2b6e3347)
